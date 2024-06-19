@@ -52,6 +52,8 @@ public class Objects1 {
 		s4.printStudentData();
 		
 		s4.getRollNo();
+		
+		System.out.println(s4.toString());
 
 
 	}

@@ -57,6 +57,14 @@ public class Student {
 	public void setDivision(char division) {
 		this.division = division;
 	}
+
+	@Override
+	public String toString() {
+		return "Student [name=" + name + ", rollNo=" + rollNo + ", Class=" + Class + ", division=" + division
+				+ ", yearOfAdmission=" + yearOfAdmission + "]";
+	}
+	
+	
 	
 
 }
