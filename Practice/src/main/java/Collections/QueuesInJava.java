@@ -55,6 +55,9 @@ public class QueuesInJava {
 		System.out.println(q2.poll());
 		System.out.println(q2.poll());
 		System.out.println(q2.poll());
+		System.out.println(q2.poll());
+		System.out.println(q2.poll());
+		System.out.println(q2.poll());
 		
 		
 
